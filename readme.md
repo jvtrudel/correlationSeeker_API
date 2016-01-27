@@ -2,6 +2,14 @@
 
 Restful PHP API for economic and financial data exploration.
 
+# Dependencies
+
+## fred_api
+
+  - php-curl
+
+
+
 # JavaScript API usage
 
 ## Initialization
