@@ -1,4 +1,4 @@
-<?
+<?php
 
 //$parent_id_=$_GET['parent_id'];
 

@@ -1,4 +1,4 @@
-<?
+<?php
 
 function rawJSONfile($mfile){
    $pfile=file_get_contents($mfile);
